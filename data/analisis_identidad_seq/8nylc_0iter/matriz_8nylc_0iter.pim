@@ -1,0 +1,14 @@
+#
+#
+#  Percent Identity  Matrix - created by Clustal2.1 
+#
+#
+
+     1: XHH12375.1|NylC2|Microbacteria_sp               100.00   63.13   61.06   61.65   60.77   31.35   34.62   31.62
+     2: XHH12374.1|NylC1|Leucobacter_chromiiresistens    63.13  100.00   82.82   82.82   82.25   31.35   33.22   30.93
+     3: Q1EPR4|NYLC_KOCS2|Kocuria_sp_KY2                 61.06   82.82  100.00   95.77   97.18   31.35   33.92   32.30
+     4: Q79F77|NYLC_PAEUR|Paenarthrobacter_ureafaciens   61.65   82.82   95.77  100.00   98.59   30.69   33.22   31.96
+     5: Q1EPR5|NYLC_AGRS5|Agromyces_sp_KY5R              60.77   82.25   97.18   98.59  100.00   30.69   33.22   31.62
+     6: XHH12378.1|NylC5|Gordonia_sp                     31.35   31.35   31.35   30.69   30.69  100.00   40.00   40.51
+     7: 9CXR|Nyl50|Alphaproteobacteria_bacterium         34.62   33.22   33.92   33.22   33.22   40.00  100.00   46.36
+     8: A0A162M3R4|TvgC|Thermovenabulum_gondwanense      31.62   30.93   32.30   31.96   31.62   40.51   46.36  100.00

@@ -1,0 +1,13 @@
+concepto,n
+Secuencias descargadas en uniprotkb_lipase_AND_reviewed_true_2026_10_08.fasta,1944
+Secuencias descargadas en uniprotkb_aminotransferase_AND_reviewed_2026_10_08.fasta,6177
+Secuencias descargadas en uniprotkb_dmpA_OR_bapA_AND_reviewed_tru_2026_10_08.fasta,249
+Total antes de quitar repetidas,8370
+"Repetidas eliminadas (ya vistas en un fichero anterior), localizadas en uniprotkb_lipase_AND_reviewed_true_2026_10_08.fasta",0
+"Repetidas eliminadas (ya vistas en un fichero anterior), localizadas en uniprotkb_aminotransferase_AND_reviewed_2026_10_08.fasta",2
+"Repetidas eliminadas (ya vistas en un fichero anterior), localizadas en uniprotkb_dmpA_OR_bapA_AND_reviewed_tru_2026_10_08.fasta",0
+Entradas de NylC eliminadas (no repetidas),4
+Total del control negativo (secuencias únicas),8364
+Conservadas procedentes de uniprotkb_lipase_AND_reviewed_true_2026_10_08.fasta,1944
+Conservadas procedentes de uniprotkb_aminotransferase_AND_reviewed_2026_10_08.fasta,6175
+Conservadas procedentes de uniprotkb_dmpA_OR_bapA_AND_reviewed_tru_2026_10_08.fasta,245
